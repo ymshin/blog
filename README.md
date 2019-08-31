@@ -1,0 +1,2 @@
+# blog
+for static pages
